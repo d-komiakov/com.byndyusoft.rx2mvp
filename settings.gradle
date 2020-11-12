@@ -1,0 +1,3 @@
+include ':Rx2MVP'
+include ':app'
+rootProject.name = "Rx2MVP"
